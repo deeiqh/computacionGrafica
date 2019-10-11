@@ -18,5 +18,5 @@
 ## Rotación
 - 10° en sentido antihorario. **rotacion.cpp**.
 
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/rotacion.png)
+
 

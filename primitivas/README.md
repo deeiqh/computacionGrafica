@@ -11,6 +11,12 @@
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/poligono.png)
 
 ## Traslación y escalado
-- Factor de escala: 2. Traslación: -50 píxeles hacia abajo (**escaladoTraslacion.cpp**).
+- Factor de escala: 2. Traslación: -50 píxeles hacia abajo. **escaladoTraslacion.cpp**.
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/escaladoTraslacion.png)
+
+## Rotación
+- 10° en sentido antihorario. **rotacion.cpp**.
+
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/rotacion.png)
+

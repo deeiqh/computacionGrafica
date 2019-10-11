@@ -1,7 +1,7 @@
 # Primitivas
 
 ## Línea
-- Se dibujó con el algortimo del punto medio (**lineaPuntoMedio.cpp**)
+- Se dibujó con el algortimo del punto medio (**lineaPuntoMedio.cpp**).
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/linea.png)
 
@@ -11,6 +11,6 @@
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/poligono.png)
 
 ## Traslación y escalado
-- **escaladoTraslacion.cpp**
+- Factor de escala: 2. Traslación: -50 píxeles hacia abajo (**escaladoTraslacion.cpp**).
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/escaladoTraslacion.png)

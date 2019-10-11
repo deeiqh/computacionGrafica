@@ -20,3 +20,8 @@
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/rotacion.png)
 
+## Arco de circunferencia
+- De radio 100. **circunferencia.cpp**.
+
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/arco.png)
+

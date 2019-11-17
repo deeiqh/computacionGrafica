@@ -51,7 +51,7 @@ int main()
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
-    GLFWwindow* window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "LearnOpenGL", NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "Cámara", NULL, NULL);
 
     glfwMakeContextCurrent(window);
     glfwSetFramebufferSizeCallback(window, viewport);
@@ -203,8 +203,8 @@ int main()
 
         //PROYECCIONES
         // PERSPECTIVA Y ORTOGRÁFICA
-        //glm::mat4 projection = glm::perspective(glm::radians(fov), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
-        glm::mat4 projection = glm::ortho(0.0f, (float)SCR_WIDTH/100.0f, (float)SCR_HEIGHT/100.0f, 0.0f, 0.0f, 100.0f);
+        glm::mat4 projection = glm::perspective(glm::radians(fov), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
+        //glm::mat4 projection = glm::ortho(0.0f, (float)SCR_WIDTH/100.0f, (float)SCR_HEIGHT/100.0f, 0.0f, 0.0f, 100.0f);
         
         shaderr.setMat4("projection", projection);
 

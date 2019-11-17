@@ -1,6 +1,8 @@
-# Primitivas
+# Vistas con cámara
 
-## Línea
+- Dentro de **camara.cpp** está la instrucción para compilar.
+
+## Mover la cámara con el mouse
 - Se dibujó con el algortimo del punto medio (**lineaPuntoMedio.cpp**).
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/linea.png)

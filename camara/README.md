@@ -3,27 +3,26 @@
 - Dentro de **camara.cpp** está la instrucción para compilar.
 
 ## Mover la cámara con el mouse
-- Se dibujó con el algortimo del punto medio (**lineaPuntoMedio.cpp**).
 
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/linea.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/1.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/2.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/3.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/4.png)
 
-## Polígono
-- **poligono.cpp**
 
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/poligono.png)
+## Cambios de proyección:
 
-## Traslación y escalado
-- Factor de escala: 2. Traslación: -50 píxeles hacia abajo. **escaladoTraslacion.cpp**.
+### Perspectiva
 
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/escaladoTraslacion.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/1.png)
 
-## Rotación
-- 10° en sentido antihorario. **rotacion.cpp**.
+### Ortogonal
 
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/rotacion.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/a.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/b.png)
 
-## Arco de circunferencia
-- De radio 100. **circunferencia.cpp**.
-
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/primitivas/imagenes/arco.png)
-
+## MOver objeto con las teclas
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/11.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/22.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/33.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/camara/imagenes/44.png)

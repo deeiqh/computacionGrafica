@@ -13,5 +13,5 @@
 # Caricatura
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/sp.jpg)
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/spOut.jpg)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/spOut2.jpg)
 

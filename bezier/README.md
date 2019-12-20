@@ -1,6 +1,6 @@
 # Curvas de Bezier
 
-- **bezier.HTML**.
+- **bezier.HTML**
 - Soporta curvas de cualquer grado.
 - Los puntos se seleccionan dando clic sobre el canvas azul. Se grafican al dar clic el botón.
 

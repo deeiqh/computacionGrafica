@@ -5,13 +5,13 @@
 
 # Paisaje
 
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/paisaje.png)
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/paisajeOut.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/paisaje.jpg)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/paisajeOut.jpg)
 
 # ---------------------------------------------------------------------------------
 
 # Caricatura
 
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/sp.png)
-![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/spOut.png)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/sp.jpg)
+![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/quadtreeImagenes/imagenes/spOut.jpg)
 

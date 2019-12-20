@@ -7,14 +7,14 @@
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-1.png)
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-2.png)
 
-# -----------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 
 ## Bezier de grado 2
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-3.png)
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-4.png)
 
-# -----------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 
 ## Bezier de grado 3
 
@@ -22,14 +22,14 @@
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b2.png)
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b3.png)
 
-# -----------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 
 ## Bezier de grado 4
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b6.png)
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b7.png)
 
-# -----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 ## Bezier de grado 5
 

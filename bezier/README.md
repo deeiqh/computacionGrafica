@@ -1,7 +1,8 @@
-# Plot de curvas de Bezier
+# Curvas de Bezier
 
 - **bezier.html**.
-- Soporta cualquier grado de la curva.
+- Soporta curvas de cualquer grado.
+- Los puntos se seleccionan con dando clic sobre el canvas azul. Se grafican al dar clic el botón.
 
 # Bezier de grado 1
 

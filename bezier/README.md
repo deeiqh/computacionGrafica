@@ -1,6 +1,7 @@
 # Plot de curvas de Bezier
 
 - **bezier.html**.
+- Soporta cualquier grado de la curva.
 
 # Bezier de grado 1
 

@@ -1,0 +1,88 @@
+<canvas id ="cvs" width="750" height="500" style="background-color: rgb(0, 0, 125)"></canvas> 
+<br><br>
+<button onclick="bezier()">Plotear la curva Bezier</button>
+
+<script> 
+    let canvas = document.getElementById("cvs");
+    let ctx = canvas.getContext("2d");
+    let canvasData = ctx.getImageData(0, 0, 750, 500);
+
+    let puntosXIn = [];
+    let puntosYIn = [];
+    let puntosXOut = [];
+    let puntosYOut = [];
+
+    let order=1;
+
+    function getMousePosition(canvas, event) { 
+        let rect = canvas.getBoundingClientRect(); 
+        let x = event.clientX - rect.left; 
+        let y = event.clientY - rect.top; 
+        
+        puntosXIn.push(x);
+        puntosYIn.push(y);
+                
+        ctx.fillStyle = "#00ff00";
+        ctx.beginPath();
+        ctx.arc(x, y, 2, 0, Math.PI * 2, true);
+        ctx.font = "16px Arial";
+        ctx.fillText("P"+order++, x, y);
+        ctx.fill(); 
+
+    } 
+
+    let canvasElem = document.querySelector("canvas"); 
+    canvasElem.addEventListener("mousedown", function(e) 
+    { 
+        getMousePosition(canvasElem, e); 
+    });
+    
+    function bezier() {
+        let rect = canvas.getBoundingClientRect(); 
+
+        for(let i=0; i<puntosXIn.length; i++){
+
+            /*
+            puntosXOut[i] = puntosXIn[i]+10;
+            puntosYOut[i] = puntosYIn[i]+10;
+            */
+
+            let intervalo = 1 / 100;
+            let t=0;
+
+            for ( let i = 0; i < 100; i++ ) {
+                let x = 0;
+                let y = 0;
+                let n = puntosXIn.length-1;
+                for ( let j = 0; j < puntosXIn.length; j++ ) {
+                    let b = C(n, j) * Math.pow((1-t), (n-j)) * Math.pow(t, j);
+                    x += b * puntosXIn[j];
+                    y += b * puntosYIn[j];
+                }
+                puntosXOut.push(x);
+                puntosYOut.push(y);
+                t += intervalo;
+            }            
+
+        }   
+        
+        for(let i=0; i<puntosXOut.length; i++){
+            ctx.fillStyle = "#ff0000"; 
+            ctx.beginPath();
+            ctx.arc(puntosXOut[i], puntosYOut[i], 2, 0, Math.PI * 2, true); 
+            ctx.fill();
+        }
+        
+    } 
+
+    function C(n, k) {
+        var coef = 1;
+        for ( var x = n-k+1; x <= n; x++ ) 
+            coef *= x;
+        for ( x = 1; x <= k; x++ ) 
+            coef /= x;
+        return coef;
+    }
+
+        
+</script> 

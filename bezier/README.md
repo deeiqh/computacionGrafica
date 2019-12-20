@@ -2,7 +2,7 @@
 
 - **bezier.HTML**
 - Soporta curvas de cualquer grado.
-- Los puntos se seleccionan dando clic sobre el canvas azul. Se grafican al dar clic el botón.
+- Los puntos se seleccionan al dar clic sobre el canvas. Se grafican al dar clic en el botón.
 
 # Bezier de grado 1
 

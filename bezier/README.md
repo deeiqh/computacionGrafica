@@ -7,6 +7,8 @@
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-1.png)
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-2.png)
 
+##----------------------------------------------
+
 ## Bezier de grado 2
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-3.png)

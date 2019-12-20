@@ -2,12 +2,12 @@
 
 - **bezier.html**.
 
-## Bezier de grado 1
+# Bezier de grado 1
 
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-1.png)
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b-2.png)
 
-##----------------------------------------------
+# ----------------------------------------------
 
 ## Bezier de grado 2
 

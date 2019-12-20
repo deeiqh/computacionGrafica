@@ -31,7 +31,7 @@
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b6.png)
 ![](https://raw.githubusercontent.com/kevin-salazar/computacionGrafica/master/bezier/imagenes/b7.png)
 
------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------
 
 ## Bezier de grado 5
 
